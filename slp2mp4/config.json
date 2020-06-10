@@ -1,10 +1,10 @@
 {
-    "melee_iso": "~/Games/SSBM-v1.02-NTSC.iso",
-    "dolphin_dir": "~/dolphin/Slippi-FM-r18/playback",
+    "melee_iso": "/data/SSBM-v1.02-NTSC.iso",
+    "dolphin_dir": "/data/Slippi-FM-r18/playback",
     "ffmpeg": "/usr/bin/ffmpeg",
-    "resolution": "720p",
-    "widescreen": true,
-    "bitrateKbps": 16000,
+    "resolution": "480p",
+    "widescreen": false,
+    "bitrateKbps": 2000,
     "parallel_games": "recommended",
     "remove_short": true,
     "combine": true
